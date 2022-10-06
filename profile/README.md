@@ -29,7 +29,7 @@ Build a gateway to meet the following requirements:
 
 ## Contributing
 
-Interested in contributing? Please read carefully the [CONTRIBUTING guidelines](/CONTRIBUTING.md).
+Interested in contributing? Please read carefully the [CONTRIBUTING guidelines](https://github.com/fledge-power/contributing/blob/main/CONTRIBUTING.md).
 
 ## CII Best Practices
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5969/badge)](https://bestpractices.coreinfrastructure.org/projects/5969)
