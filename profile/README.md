@@ -30,6 +30,7 @@ Build a gateway to meet the following requirements:
 ## Contributing
 
 Interested in contributing? Please read carefully the [CONTRIBUTING guidelines](https://github.com/fledge-power/contributing/blob/main/CONTRIBUTING.md).
+You can also read the project's [WIKI](https://wiki.lfenergy.org/display/FLED/FledgePower) for more information about the design and architecture.
 
 ## CII Best Practices
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5969/badge)](https://bestpractices.coreinfrastructure.org/projects/5969)
