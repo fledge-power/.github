@@ -1,2 +1,2 @@
 # .github
-FledgePower organizatio public readme
+FledgePower organization public readme
