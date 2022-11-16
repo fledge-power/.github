@@ -46,3 +46,6 @@ You can also read the project's [WIKI](https://wiki.lfenergy.org/display/FLED/Fl
 ### fledge-north-s2opcua
 [![CI](https://github.com/fledge-power/fledge-north-s2opcua/actions/workflows/ci.yml/badge.svg)](https://github.com/fledge-power/fledge-north-s2opcua/actions/workflows/ci.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fledge-power_fledge-north-s2opcua&metric=alert_status)](https://sonarcloud.io/dashboard?id=fledge-power_fledge-north-s2opcua)
+### fledgepower-filter-pivottoopcua
+[![CI](https://github.com/fledge-power/fledgepower-filter-pivottoopcua/actions/workflows/ci.yml/badge.svg)](https://github.com/fledge-power/fledgepower-filter-pivottoopcua/actions/workflows/ci.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fledge-power_fledgepower-filter-pivottoopcua&metric=alert_status)](https://sonarcloud.io/dashboard?id=fledge-power_fledgepower-filter-pivottoopcua)
