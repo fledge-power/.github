@@ -33,6 +33,10 @@ Interested in contributing? Please read carefully the [CONTRIBUTING guidelines](
 
 You can also read the project's [WIKI](https://wiki.lfenergy.org/display/FLED/FledgePower) for more information about the design and architecture.
 
+## SONAR dashboard
+
+You can check the project's [SONAR dashboard](https://sonarcloud.io/organizations/fledge-power/projects) 
+
 ## CII Best Practices
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5969/badge)](https://bestpractices.coreinfrastructure.org/projects/5969)
 
