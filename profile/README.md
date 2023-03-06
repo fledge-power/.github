@@ -37,8 +37,8 @@ You can also read the project's [WIKI](https://wiki.lfenergy.org/display/FLED/Fl
 
 You can check the project's [SONAR dashboard](https://sonarcloud.io/organizations/fledge-power/projects) 
 
-## CII Best Practices
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5969/badge)](https://bestpractices.coreinfrastructure.org/projects/5969)
+## OpenSSF Best Practices
+[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/5969/badge)](https://bestpractices.coreinfrastructure.org/projects/5969)
 
 ## CI Status
 ### fledge-north-iec104
